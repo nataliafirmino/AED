@@ -61,3 +61,5 @@ class ABB:
                     return self.pesquisar (subArvore.esquerda)
                 else:
                     return self.pesquisar (subArvore.direita)
+
+
